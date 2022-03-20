@@ -1,8 +1,7 @@
 RENCANA KONTEN WPU
 
 -JS
- *Framework JS
- *learn JS full smile
+  *e56
+  *Framework js
 -PHP
- *learn laravel
--JAVA
+  *laravel
