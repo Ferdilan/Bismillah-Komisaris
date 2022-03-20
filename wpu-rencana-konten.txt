@@ -2,6 +2,8 @@ RENCANA KONTEN WPU
 
 -JS
  *Framework JS
+   ^angular
+   ^react
  *learn JS full smile
 -PHP
--LARAVEL
+ *learn laravel
