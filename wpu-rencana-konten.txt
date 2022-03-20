@@ -2,5 +2,6 @@ RENCANA KONTEN WPU
 
 -JS
  *Framework JS
+ *learn JS full smile
 -PHP
 -LARAVEL
